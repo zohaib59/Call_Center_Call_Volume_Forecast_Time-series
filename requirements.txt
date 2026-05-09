@@ -1,0 +1,1 @@
+!pip install -q prophet holidays xgboost statsmodels scikit-learn tensorflow openpyxl

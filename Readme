@@ -1,0 +1,16 @@
+Call Center Call Volume Forecasting — Time Series Case Study
+Overview
+This case study is not just about forecasting numbers — it’s about capturing the story of technological disruption:
+AI reduces repetitive human tasks.
+Companies profit from efficiency gains.
+Human roles evolve, requiring reskilling and adaptation.
+By highlighting both the technical rigor and the social impact, this project resonates with recruiters, industry leaders, and professionals navigating the AI revolution.
+This project focuses on forecasting daily call volumes for an Indian call center over the next 30 days using three advanced time series techniques:
+
+LSTM (Long Short-Term Memory networks)
+ARIMA (AutoRegressive Integrated Moving Average)
+XGBoost (Extreme Gradient Boosting adapted for time series regression)
+
+The dataset spans from 01 Jan 2020 to present, with clean, imputed values and engineered features (lag variables, rolling means). 
+Forecasts are generated to support operational planning, workforce optimization, and technology adoption strategies.
+
